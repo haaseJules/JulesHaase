@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me :
 - 🧑‍💼: Business Software Developer @ReglerSystemsGmbH
 - 📍: Saarland (Germany)
-- 🎓: IT-Systems-Management (IHK)
+- 🎓: Advanced technical college entrance qualification in business informatics
 
 ### 🕒 Freetime Project Highlights :
 - 🎮: Python realtime object detection in Games
