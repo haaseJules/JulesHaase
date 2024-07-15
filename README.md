@@ -6,14 +6,14 @@
 ---
 
 ### 👨‍💻 About Me :
-- 🧑‍💼: Business Software Developer @ReglerSystemsGmbH
+- 🧑‍💼: Higher vocational school in business informatics
 - 📍: Saarland (Germany)
 - 🎓: Advanced technical college entrance qualification in business informatics
 
 ### 🕒 Freetime Project Highlights :
-- 🎮: Python realtime object detection in Games
-- ⚙️: ESP32 IoT programming with .NET & Nanoframework
-- ⚡: Fully automated crypto trading bot based on Coinbase REST API.
+- 🎮: 
+- ⚙️: 
+- ⚡: 
 - ..... 
 
 ---
@@ -23,21 +23,14 @@
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="XAMARIN" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-
 
 </div>
 
 ### 🧭 exploring :
 <div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  
 
 ---
 
