@@ -23,6 +23,8 @@
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="\\sys-profiler\Users$\jhaase\Desktop\wpf.jpg" title= "WPF" alt="WPF" width="40" height="40" />&nbsp;
+  <img src="![alt text](xalm.jpg)" title= "XAML" alt="XAML" width="40" height="40" />&nbsp;
 
 </div>
 
