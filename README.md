@@ -23,8 +23,7 @@
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/wpf-original.svg" title= "WPF" alt="WPF" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/xaml-original.svg" title= "XAML" alt="XAML" width="40" height="40" />&nbsp;
+  
 
 </div>
 
