@@ -12,7 +12,7 @@
 
 ### 🕒 Freetime Project Highlights :
 - 🎮: 
-- ⚙️: 
+- ⚙️: Weather App with C#/MVVM/API
 - ⚡: 
 - ..... 
 
